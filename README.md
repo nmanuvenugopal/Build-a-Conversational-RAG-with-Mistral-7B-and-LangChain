@@ -1,4 +1,4 @@
-# -Build-a-Conversational-RAG-with-Mistral-7B-and-LangChain
+# Build-a-Conversational-RAG-with-Mistral-7B-and-LangChain
 
 
 
